@@ -1,0 +1,29 @@
+[12:39:51] [main/INFO]: Setting user: Player319
+[12:39:54] [main/INFO]: LWJGL Version: 2.9.4
+[12:40:00] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minebot
+[12:40:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:40:03] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[12:40:03] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:40:03] [Thread-5/INFO]: OpenAL initialized.
+[12:40:03] [Sound Library Loader/INFO]: Sound engine started
+[12:40:06] [main/INFO]: Created: 16x16 textures-atlas
+[12:40:07] [main/INFO]: [STDERR]: Cannot check parameters for run: No parameter class registered for net.famzangl.minecraft.minebot.ai.command.CommandNameBuilder
+[12:40:07] [main/INFO]: [STDERR]: Cannot check parameters for run: No parameter class registered for net.famzangl.minecraft.minebot.ai.command.FileNameBuilder
+[12:40:07] [main/INFO]: [STDERR]: Cannot check parameters for run: No parameter class registered for net.famzangl.minecraft.minebot.ai.command.FileNameBuilder
+[12:40:08] [main/INFO]: [STDERR]: Cannot check parameters for run: No parameter class registered for net.famzangl.minecraft.minebot.ai.command.FileNameBuilder
+[12:40:08] [main/INFO]: [STDERR]: Cannot check parameters for runSimple: No parameter class registered for net.famzangl.minecraft.minebot.ai.command.BlockStateNameBuilder
+[12:40:08] [main/INFO]: [STDERR]: Cannot check parameters for run: No parameter class registered for net.famzangl.minecraft.minebot.ai.command.FileNameBuilder
+[12:40:08] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minebot
+[12:40:10] [main/INFO]: SoundSystem shutting down...
+[12:40:10] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:40:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:40:10] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[12:40:10] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:40:10] [Thread-7/INFO]: OpenAL initialized.
+[12:40:11] [Sound Library Loader/INFO]: Sound engine started
+[12:40:13] [main/INFO]: Created: 512x512 textures-atlas
+[12:40:14] [main/INFO]: Narrator library for x64 successfully loaded
+[12:40:16] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[12:40:31] [main/INFO]: Stopping!
+[12:40:31] [main/INFO]: SoundSystem shutting down...
+[12:40:32] [main/WARN]: Author: Paul Lamb, www.paulscode.com
